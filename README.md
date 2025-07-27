@@ -48,3 +48,7 @@ uv run main.py
 _Source: [LangChain](https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_adaptive_rag/)_
 
 </div>
+
+## Information
+
+The web data used for testing are from [Lilian blog](https://lilianweng.github.io/)
